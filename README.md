@@ -3,3 +3,4 @@
 ---
 ## Downloads
 - Molecular mass calculator is only available in the terminal and can only be obtained from GitHub
+- - The link to the GitHub page to pull from can be found [*here*](https://github.com/tybrucker/molecular-mass)
