@@ -28,6 +28,8 @@ java MolecularMass
 2. Enter molecule to calculate mass
 <img src="https://i.gyazo.com/4138837c0e8f6f49ac00de45d040f84b.png" alt="img2" width="400"/>
 
+---
+
 ## FAQ
 - What atoms are supported?
   - Currently only Carbon(C), Hydrogen(H), and Oxygen(O)
